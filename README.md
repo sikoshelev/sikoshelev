@@ -1,4 +1,4 @@
-<!-- Rxyhn's Aesthetic GitHub Profile -->
+<!-- GitHub Profile -->
 <div align="justify">
 
 <!-- Profile -->
