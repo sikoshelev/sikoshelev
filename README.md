@@ -11,7 +11,7 @@
         I'm Sergei, a self - taught programmer.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=25&pause=1000&color=319DA0&center=true&vCenter=true&width=490&lines=My+code+works%2C+but+I+have+no+idea+why+" alt="Typing SVG">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=25&pause=1000&color=319DA0&center=true&width=490&lines=My+code+works%2C+but+I+have+no+idea+why+" alt="Typing SVG">
       <br>
       <b>
         ~ Sergei Koshelev ~
