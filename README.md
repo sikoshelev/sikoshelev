@@ -11,7 +11,7 @@
         I'm Rxyhn, a Student, I like Penguins and Apples, but I don't like Windows.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=25&pause=1000&color=319DA0&center=true&vCenter=true&width=490&lines=My+code+works%2C+but+I+have+no+idea+why+" alt="Typing SVG">
       <br>
       <b>
         ~ Sergei Koshelev ~
