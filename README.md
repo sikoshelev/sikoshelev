@@ -56,6 +56,12 @@
 </div>
 <h2></h2><br>
 
+  <p align="center">
+  <samp>
+    [STATS]
+  </samp>
+</p>
+  
 <!-- Profile Views Badge -->
 <p align="center">
   <a href="https://github.com/SeverusVape"><img src="http://github-readme-streak-stats.herokuapp.com?user=SeverusVape&theme=tokyonight&background=000000" alt="edisonlee55's github stats"></a>
