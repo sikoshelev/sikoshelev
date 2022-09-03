@@ -66,11 +66,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rxyhn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxyhn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
-      
-      <a href="https://github.com/SeverusVape"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeverusVape&layout=compact&theme=tokyonight" alt="edisonlee55's github stats"></a>
+    <a href="https://github.com/SeverusVape"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeverusVape&layout=compact&theme=tokyonight" alt="edisonlee55's github stats"></a>
     </tr>
   </table>
 </div>
