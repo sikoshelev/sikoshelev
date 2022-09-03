@@ -30,10 +30,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/rxxxyhn">twitter</a>]
-    [<a href="https://instagram.com/rayhankafipratama">instagram</a>]
-    [<a href="https://matrix.to/#/@rxyhn:matrix.org">matrix</a>]
-    [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
+    [<a  href="https://www.linkedin.com/in/sergei-koshelev-289314153/">LinkedIn</a>]
   </samp>
 </p>
 
