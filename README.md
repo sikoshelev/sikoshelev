@@ -33,10 +33,9 @@
     [<a  href="https://www.linkedin.com/in/sergei-koshelev-289314153/">LinkedIn</a>]
   </samp>
 </p>
-
-<h2></h2><br>
   
 <h2></h2><br>
+  
   <p align="center">
   <samp>
     [TOOLS]
