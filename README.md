@@ -58,11 +58,8 @@
 
 <!-- Profile Views Badge -->
 <p align="center">
-  <samp>
-  <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=rxyhn&label=Profile+Views&color=grey" alt="profile views" /> 
-  </a>
-  </samp>
+  <a href="https://github.com/SeverusVape"><img src="http://github-readme-streak-stats.herokuapp.com?user=SeverusVape&theme=tokyonight&background=000000" alt="edisonlee55's github stats"></a>
+   <a href="https://github.com/SeverusVape"><img src="https://github-readme-stats.vercel.app/api?username=SeverusVape&show_icons=true&theme=tokyonight" alt="edisonlee55's github stats"></a>
 </p>
 
 <!-- Github Trophy -->
